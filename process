@@ -1,0 +1,9 @@
+new project
+->
+".gitignore" exist
+->
+already connected
+-> 
+git pull --rebase origin master
+->
+git push -u origin master
